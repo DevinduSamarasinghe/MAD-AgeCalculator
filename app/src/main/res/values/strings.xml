@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name ="MainText">Age Calculator</string>
+    <string name ="birthDate">Enter Birthday</string>
+    <string name ="btn">Submit</string>
+    <string name ="divName">DaveX</string>
+</resources>
